@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest  --watchAll"
+    "test": "jest  --watchAll",
+    "fizzbuzz": "node src/fizzbuzz.js"
   },
   "keywords": [],
   "author": "",
