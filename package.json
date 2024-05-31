@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest  --watchAll",
-    "fizzbuzz": "node src/fizzbuzz.js"
+    "fizzbuzz": "node ./src/fizzBuzz/fizzBuzz.js",
+    "maxProfit": "node ./src/maxProfit/maxProfit.js"
   },
   "keywords": [],
   "author": "",
